@@ -72,7 +72,7 @@ Data Analyst and AI Engineer with hands-on experience delivering data-driven ins
 | 🚨 [**Los Angeles Crime Data EDA**](https://github.com/mo010686/la-crime-data-analysis) | Public Safety / Crime | Python, Pandas, Seaborn, Plotly | In-depth EDA on urban crime records; identified peak crime hours, night-time hotspots across top 10 regions, and applied IQR anomaly detection. |
 | 📊 [**Frostline Sales Executive Dashboard**](https://github.com/mo010686/frostline-sales-dashboard) | E-commerce / Sales | Advanced Excel, Pivot Tables, Slicers | Multi-table relational sales model tracking revenue, top customers, shipper efficiency, and dynamic regional slicers. |
 | 🎬 [**Anime Industry Data Analysis**](https://github.com/mo010686/anime-data-analysis) | Media / Entertainment | Python, Pandas, WordCloud, NLP | Analyzed 10,000+ anime titles; HTML/regex text sanitization, rating correlations, episode outlier detection, and custom-masked WordClouds. |
-| 🚆 [**Real-Time Train Tracking System**](https://github.com/mo010686/Graduation-project-) | IoT & Smart Transport | Computer Science / Engineering | University Graduation Project focused on real-time transit telemetry, logistics tracking, and operational monitoring. |
+| 🚆 [**Real-Time Train Tracking System**](https://github.com/mo010686/real-time-train-tracking-system) | IoT & Smart Transport | Computer Science / Engineering | University Graduation Project focused on real-time transit telemetry, logistics tracking, and operational monitoring. |
 
 ---
 
