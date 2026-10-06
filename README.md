@@ -59,9 +59,9 @@ Passionate **Data Analyst** with a strong foundation in **Exploratory Data Analy
 
 | Project | Domain | Tech Stack | Highlights |
 | :--- | :--- | :--- | :--- |
-| 🚨 [**Los Angeles Crime Data EDA**](https://github.com/mo010686/crime-data-) | Public Safety / Crime | Python, Pandas, Seaborn, Plotly | In-depth EDA on urban crime patterns, peak danger hours, high-risk neighborhoods & victim demographics. |
-| 📊 [**Frostline Sales Analytics Dashboard**](https://github.com/mo010686/frostline-_sales) | E-commerce / Sales | Advanced Excel, Pivot Tables, Slicers | Interactive executive sales dashboard tracking revenue, top customers, regional sales & supplier KPIs. |
-| 🎬 [**Anime Industry Data Analysis**](https://github.com/mo010686/Anime-data-) | Entertainment / Media | Python, Pandas, WordCloud, Seaborn | Analysis of 10,000+ anime titles, rating correlations, episode outliers, and masked text mining visualizations. |
+| 🚨 [**Los Angeles Crime Data EDA**](https://github.com/mo010686/la-crime-data-analysis) | Public Safety / Crime | Python, Pandas, Seaborn, Plotly | In-depth EDA on urban crime patterns, peak danger hours, high-risk neighborhoods & victim demographics. |
+| 📊 [**Frostline Sales Analytics Dashboard**](https://github.com/mo010686/frostline-sales-dashboard) | E-commerce / Sales | Advanced Excel, Pivot Tables, Slicers | Interactive executive sales dashboard tracking revenue, top customers, regional sales & supplier KPIs. |
+| 🎬 [**Anime Industry Data Analysis**](https://github.com/mo010686/anime-data-analysis) | Entertainment / Media | Python, Pandas, WordCloud, Seaborn | Analysis of 10,000+ anime titles, rating correlations, episode outliers, and masked text mining visualizations. |
 
 ---
 
